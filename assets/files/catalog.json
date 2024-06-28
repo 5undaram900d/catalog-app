@@ -1,0 +1,84 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "iphone 11 pro",
+      "desc": "Apple iphone 11 generation",
+      "price": 23,
+      "color": "#33505a",
+      "imageUrl": "https://media.istockphoto.com/id/1217114251/photo/excited-girl-celebrating-good-news-on-laptop-at-home.webp?s=2048x2048&w=is&k=20&c=U383-2jKCFlR_YwHjscABp9avH9StnVm1urDS1g1VQY="
+    },
+    {
+      "id": 2,
+      "name": "iphone 13 pro",
+      "desc": "Apple iphone 13 generation",
+      "price": 4900,
+      "color": "#DFFF00",
+      "imageUrl": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iphone 12 pro",
+      "desc": "Apple iphone 12 generation",
+      "price": 2300,
+      "color": "#FFBF00",
+      "imageUrl": "https://i.pcmag.com/imagery/articles/00Cx7vFIetxCuKxQeqPf8mi-23.fit_lim.size_1600x900.v1643131202.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iphone 14 pro",
+      "desc": "Apple iphone 14 generation",
+      "price": 1000,
+      "color": "#FF7F50",
+      "imageUrl": "https://www.whoa.in/201604-Whoa/10-alone-broken-image-mobile-wallpaper-hd-image.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Samsung",
+      "desc": "Samsung Keypad",
+      "price": 923,
+      "color": "#DE3163",
+      "imageUrl": "https://media.istockphoto.com/id/1252883482/photo/remote-check-deposit-taking-photo.jpg?s=612x612&w=0&k=20&c=y2b-WtlCIz28fBQLdAnb9Yh5IxPfcad9syP742YyFRM="
+    },
+    {
+      "id": 6,
+      "name": "MI A7",
+      "desc": "MI A7 More functionality",
+      "price": 391,
+      "color": "#9FE2BF",
+      "imageUrl": "https://media.istockphoto.com/id/1197063359/photo/woman-using-apple-iphone-11-pro-smartphone.jpg?s=612x612&w=0&k=20&c=2q_cfjVBSfNRaiJ8uQ-JF13-pbVH9rxZETVJOC3NtYs="
+    },
+    {
+      "id": 7,
+      "name": "Sumsung M20",
+      "desc": "Sumsung M20 Top Camera",
+      "price": 42,
+      "color": "#40E0D0",
+      "imageUrl": "https://media.istockphoto.com/id/1270790424/photo/new-ios-14-screen-iphone-apples-next-operating-system-for-its-smarphones-to-be-released.jpg?s=612x612&w=0&k=20&c=p7L7H8mHC6JbLjYTEbYCFjTJ-RLedHZsfyp2b5cFczs="
+    },
+    {
+      "id": 8,
+      "name": "Sumsang M31",
+      "desc": "Sumsung M31 Duable camera",
+      "price": 300,
+      "color": "#6495ED",
+      "imageUrl": "https://media.istockphoto.com/id/1197265581/photo/apple-iphone-11-pro-mobile-phone-with-triple-lens-camera.jpg?s=612x612&w=0&k=20&c=OZJdfn8QsgSFb2hlbUVjf9EKgUFA0MUJ8U1PBXvj7zI="
+    },
+    {
+      "id": 9,
+      "name": "oppo",
+      "desc": "oppo current generation",
+      "price": 123,
+      "color": "#CCCCFF",
+      "imageUrl": "https://media.istockphoto.com/id/1301151677/photo/modern-mobile-phone-mockup-with-sample-home-screens-user-interface-and-app-icons-are.jpg?s=612x612&w=0&k=20&c=MlGFtATn86nUqxooh3bsiKiGq2M-630oC-xUC5Uui-U="
+    },
+    {
+      "id": 10,
+      "name": "Vivo",
+      "desc": "Vivo Manufactured",
+      "price": 203,
+      "color": "#00FFFF",
+      "imageUrl": "https://media.istockphoto.com/id/1315891458/photo/two-smartphones-with-blank-screen-soaring-on-dark-background.jpg?s=612x612&w=0&k=20&c=ITKxZ_sJZxDnv64K2l3ycjQiVKVnvIpaU_PQYm4tbgE="
+    }
+  ]
+}
